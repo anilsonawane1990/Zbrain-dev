@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/selenium-server-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/docker-java-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/docker-java-api-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/docker-java-core-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/docker-java-transport-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/docker-java-transport-httpclient5-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/INSTALLER FILE/jar_files/webdrivermanager-5.4.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
