@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T15:49:23 IST" name="Suite" finished-at="2024-03-08T15:49:45 IST" duration-ms="21565">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T15:49:23 IST" name="Test" finished-at="2024-03-08T15:49:45 IST" duration-ms="21565">
+      <class name="newproject1.test">
+        <test-method is-config="true" signature="openpage(java.lang.String)[pri:0, instance:newproject1.test@61862a7f]" started-at="2024-03-08T15:49:23 IST" name="openpage" finished-at="2024-03-08T15:49:37 IST" duration-ms="13768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openpage -->
+        <test-method signature="popups()[pri:0, instance:newproject1.test@61862a7f]" started-at="2024-03-08T15:49:37 IST" name="popups" finished-at="2024-03-08T15:49:41 IST" duration-ms="4059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popups -->
+        <test-method is-config="true" signature="cloasepage()[pri:0, instance:newproject1.test@61862a7f]" started-at="2024-03-08T15:49:41 IST" name="cloasepage" finished-at="2024-03-08T15:49:45 IST" duration-ms="3660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloasepage -->
+      </class> <!-- newproject1.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
